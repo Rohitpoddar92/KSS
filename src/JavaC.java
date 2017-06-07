@@ -1,4 +1,4 @@
 
 public class JavaC {
-	//comment
+	//comment removed
 }
